@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns:order="http://company.com/order" xmlns:prod="http://company.com/product">
+
+    <order:order id="O001" customer="Nguyễn Quỳnh Như " date="2025-03-02">
+        <prod:item id="P001" quantity="2" price="500">
+            <prod:name>Điện thoại Iphone</prod:name>
+        </prod:item>
+        <prod:item id="P002" quantity="1" price="1000">
+            <prod:name>Laptop MSI </prod:name>
+        </prod:item>
+    </order:order>
+
+    <order:order id="O002" customer="Huỳnh Minh Nhựt" date="2025-03-10">
+        <prod:item id="P003" quantity="3" price="200">
+            <prod:name> Tai nghe không dây  </prod:name>
+        </prod:item>
+        <prod:item id="P004" quantity="1" price="1500">
+            <prod:name>MacBook Air </prod:name>
+        </prod:item>
+    </order:order>
+
+</orders>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elearning xmlns:course="http://example.com/course"
+           xmlns:instructor="http://example.com/instructor"
+           xmlns:student="http://example.com/student">
+
+    <course:course id="C001" category="Lập trình">
+        <course:title>Python cơ bản</course:title>
+        <instructor:instructor id="I001">
+            <instructor:name>Nguyễn Quỳnh Như </instructor:name>
+            <instructor:email>nguyenquynhnhu@example.com</instructor:email>
+        </instructor:instructor>
+        <course:students>
+            <student:student id="S001" progress="80">
+                <student:name> Huỳnh Minh Nhựt </student:name>
+            </student:student>
+            <student:student id="S002" progress="50">
+                <student:name>Bùi Hữu Nhật </student:name>
+            </student:student>
+        </course:students>
+    </course:course>
+
+    <course:course id="C002" category="Thiết kế">
+        <course:title>Thiết kế Web nâng cao</course:title>
+        <instructor:instructor id="I002">
+            <instructor:name>Trần Văn Được </instructor:name>
+            <instructor:email>tranvand@example.com</instructor:email>
+        </instructor:instructor>
+        <course:students>
+            <student:student id="S003" progress="60">
+                <student:name>Lê Thị Em </student:name>
+            </student:student>
+            <student:student id="S004" progress="30">
+                <student:name>Phạm Văn Trường </student:name>
+            </student:student>
+        </course:students>
+    </course:course>
+
+</elearning>
+
