@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Lập trình C cơ bản</title>
+        <author>Nguyễn Quỳnh Như </author>
+        <year>2020</year>
+        <genre>Giáo trình</genre>
+    </sach>
+    <sach>
+        <title>Trí tuệ nhân tạo</title>
+        <author> Huỳnh Minh Nhựt </author>
+        <year>2022</year>
+        <genre>Công nghệ</genre>
+    </sach>
+    <sach>
+        <title>Nhà giả kim</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <genre>Tiểu thuyết</genre>
+    </sach>
+</thuvien>

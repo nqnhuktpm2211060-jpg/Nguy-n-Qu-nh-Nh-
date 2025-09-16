@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <product id="P001" category="Điện tử" price="15000000" currency="VND"/>
+    <product id="P002" category="Thời trang" price="1200000" currency="VND"/>
+    <product id="P003" category="Gia dụng" price="250" currency="USD"/>
+</store>
