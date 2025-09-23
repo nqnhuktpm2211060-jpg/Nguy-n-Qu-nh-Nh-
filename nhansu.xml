@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "Nguyễn Quỳnh Như/nhansu.dtd">
 <company xmlns:hr="http://company.com/hr" xmlns:dep="http://company.com/department">
 
     <dep:department name="Kế toán">

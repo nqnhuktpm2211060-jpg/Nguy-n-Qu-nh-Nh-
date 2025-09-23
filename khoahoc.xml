@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE elearning SYSTEM "Nguyễn Quỳnh Như/khoahoc.dtd">
 <elearning xmlns:course="http://example.com/course"
            xmlns:instructor="http://example.com/instructor"
            xmlns:student="http://example.com/student">
@@ -36,4 +37,3 @@
     </course:course>
 
 </elearning>
-
