@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "Nguyễn Quỳnh Như/sinhvien.dtd">
 <class>
     <student>
-        <name>Nguyễn Quỳnh Như/<name>
+        <name>Nguyễn Quỳnh Như</name>
         <id>KTPM2211060</id>
         <subjects>
             <subject>
@@ -31,7 +32,7 @@
     </student>
 
     <student>
-        <name>Bùi Hữu Nhật </name>
+        <name>Bùi Hữu Nhật</name>
         <id>KTPM2211005</id>
         <subjects>
             <subject>

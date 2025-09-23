@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <book id="B001">
+        <title>Lập trình Java</title>
+        <author>Nguyễn Quỳnh Như</author>
+        <year>2020</year>
+        <genre>Công nghệ thông tin</genre>
+    </book>
+
+    <book id="B002">
+        <title>Trí tuệ nhân tạo</title>
+        <author>Huỳnh Minh Nhựt</author>
+        <year>2021</year>
+        <genre>Khoa học máy tính</genre>
+    </book>
+
+    <book id="B003">
+        <title>Kinh tế học vĩ mô</title>
+        <author>Bùi Hữu Nhật</author>
+        <year>2019</year>
+        <genre>Kinh tế</genre>
+    </book>
+</library>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "orders.dtd">
+<orders>
+    <order id="O001">
+        <product id="P001">
+            <name>Laptop Dell</name>
+            <quantity>2</quantity>
+        </product>
+        <product id="P002">
+            <name>Chuột Logitech</name>
+            <quantity>5</quantity>
+        </product>
+    </order>
+
+    <order id="O002">
+        <product id="P003">
+            <name>Điện thoại iPhone</name>
+            <quantity>1</quantity>
+        </product>
+        <product id="P004">
+            <name>Tai nghe Sony</name>
+            <quantity>3</quantity>
+        </product>
+    </order>
+</orders>
