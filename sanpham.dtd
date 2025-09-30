@@ -1,0 +1,8 @@
+<!ELEMENT store (product+)>
+
+<!ELEMENT product EMPTY>
+<!ATTLIST product
+    id ID #REQUIRED
+    category CDATA #REQUIRED
+    price CDATA #REQUIRED
+    currency CDATA #IMPLIED>

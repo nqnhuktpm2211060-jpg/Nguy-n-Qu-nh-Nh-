@@ -1,0 +1,19 @@
+<!ELEMENT orders (ord:order+)>
+<!ATTLIST orders
+    xmlns:ord CDATA #REQUIRED
+    xmlns:prod CDATA #REQUIRED
+>
+<!ELEMENT ord:order (prod:items)>
+<!ATTLIST ord:order
+    id CDATA #REQUIRED
+    customer CDATA #REQUIRED
+    date CDATA #REQUIRED
+>
+<!ELEMENT prod:items (prod:item+)>
+<!ELEMENT prod:item EMPTY>
+<!ATTLIST prod:item
+    id CDATA #REQUIRED
+    name CDATA #REQUIRED
+    quantity CDATA #REQUIRED
+    price CDATA #REQUIRED
+>
