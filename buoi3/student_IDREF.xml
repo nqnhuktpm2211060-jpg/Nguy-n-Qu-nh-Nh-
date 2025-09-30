@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="D:\Thực hành XML\Nguyễn Quỳnh Như\Nguyễn Quỳnh Như\buoi3\student_IDREF.xsd">
+    <student id="SV01">
+        <name>Nguyễn Quỳnh Như</name>
+        <date> 1997-12-20 </date>
+    
+    </student>
+    <student id="SV02">
+        <name>Huỳnh Minh Nhựt</name>
+        <date> 1997-11-20 </date> 
+    </student>
+    <student id="SV03">
+        <name>Nguyễn Thị Thùy Dương</name>
+        <date> 1997-10-20 </date>
+
+    </student>  
+    <enrollment studentID="SV01" course="Toan101"/>
+    <enrollment studentID="SV02" course="Vatly101"/>
+    <enrollment studentID="SV03" course="Vatly101"/>
+</school>
