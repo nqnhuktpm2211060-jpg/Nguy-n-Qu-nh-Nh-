@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="D:\Thực hành XML\thuchanh\buoi3\student_ID.xsd">
+    <school>
+        <student id ="SV01">
+            <name>Nguyen Van A</name>
+            <date>123456</date>
+        </student>
+        <student id ="SV02">
+            <name>Tran Thi B</name>
+            <date>654321</date>
+        </student>
+    </school>
