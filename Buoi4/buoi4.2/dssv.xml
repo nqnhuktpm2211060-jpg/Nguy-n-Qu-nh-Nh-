@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="dssv.xsd">
+    
+    <DSKHOA>
+        <KHOA>
+            <MA>CNTT</MA>
+            <TEN>cntt</TEN>
+        </KHOA>
+        <KHOA>
+            <MA>CK</MA>
+            <TEN>ck</TEN>
+        </KHOA>
+    </DSKHOA>
+    <DSLOP>
+        <LOP>
+            <MA>KTPM01</MA>
+            <TEN>Kỹ Thuật Phần Mềm 01</TEN>
+            <QUANLY>CNTT</QUANLY> 
+        </LOP>
+        <LOP>
+            <MA>MMT02</MA>
+            <TEN>Mạng Máy Tính 02</TEN>
+            <QUANLY>CNTT</QUANLY> 
+        </LOP>
+        <LOP>
+            <MA>DCK01</MA>
+            <TEN>Đồ họa Cơ Khí 01</TEN>
+            <QUANLY>CK</QUANLY> 
+        </LOP>
+    </DSLOP>
+    <DSSINHVIEN>
+        <SINHVIEN>
+            <MSSV>SV001</MSSV>
+            <HOTEN>Nguyễn Văn A</HOTEN>
+            <EMAIL>vana@dh.edu.vn</EMAIL>
+            <DIACHI>123 Đường ABC</DIACHI>
+            <SDT>0901234567</SDT>
+            <THUOC>KTPM01</THUOC>
+        </SINHVIEN>
+        <SINHVIEN>
+            <MSSV>SV002</MSSV>
+            <HOTEN>Trần Thị B</HOTEN>
+            <EMAIL>thib@dh.edu.vn</EMAIL>
+            <DIACHI>456 Đường XYZ</DIACHI>
+            <SDT>0898765432</SDT>
+            <THUOC>MMT02</THUOC>
+        </SINHVIEN>
+        <SINHVIEN>
+            <MSSV>SV003</MSSV>
+            <HOTEN>Lê Văn C</HOTEN>
+            <EMAIL>vanc@dh.edu.vn</EMAIL>
+            <DIACHI>789 Phố KLM</DIACHI>
+            <SDT>0369876543</SDT>
+            <THUOC>KTPM01</THUOC> 
+        </SINHVIEN>
+    </DSSINHVIEN>
+</DSSV>
