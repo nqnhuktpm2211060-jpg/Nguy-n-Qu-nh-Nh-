@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "Nguyễn Quỳnh Như/sinhvien.dtd">
+<class>
+    <student>
+        <name>Nguyễn Quỳnh Như</name>
+        <id>KTPM2211060</id>
+        <subjects>
+            <subject>
+                <subject_name>Lập trình C</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Cơ sở dữ liệu</subject_name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <name>Huỳnh Minh Nhựt</name>
+        <id>KTPM2211039</id>
+        <subjects>
+            <subject>
+                <subject_name>Mạng máy tính</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Hệ điều hành</subject_name>
+                <score>8.2</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <name>Bùi Hữu Nhật</name>
+        <id>KTPM2211005</id>
+        <subjects>
+            <subject>
+                <subject_name>Trí tuệ nhân tạo</subject_name>
+                <score>9.5</score>
+            </subject>
+            <subject>
+                <subject_name>Machine Learning</subject_name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+    </student>
+</class>
